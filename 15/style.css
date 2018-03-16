@@ -1,0 +1,22 @@
+body{
+    background-image: url(img/congruent_pentagon.png);
+}
+div{
+    background-color: rgba(200, 200, 200, 0.486);
+    position: relative;
+    width: 600px;
+    height: 250px;
+    margin-left: 100px;
+}
+div h{
+    position: absolute;
+    width: 90%;
+    height: 10%;
+    margin-left: 5%;
+}
+div p{
+    position: absolute;
+    width: 90%;
+    height: 90%;
+    margin-left: 5%;
+}

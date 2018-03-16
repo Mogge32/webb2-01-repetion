@@ -1,0 +1,6 @@
+p span{
+    background-color: green;
+}
+p + p span:last-child{
+    background-color: red;
+}

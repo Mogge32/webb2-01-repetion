@@ -1,0 +1,16 @@
+table{
+    border-collapse: collapse;
+}
+table tr{
+    background-color: rgb(200, 247, 197);
+    border-bottom: 1px solid rgb(45, 204, 113);
+}
+table tr:first-child{
+    color: rgb(255, 255, 255);
+    background-color: rgb(45, 204, 113);
+}
+td{
+    padding-left: 15px;
+    width: 100px;
+    height: 30px;
+}

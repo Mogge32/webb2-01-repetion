@@ -1,0 +1,13 @@
+table{
+    border-collapse: collapse;
+}
+td{
+    width: 60px;
+    height: 60px;
+}
+tr:nth-child(odd) td:nth-child(odd){
+    background-color: black;
+}
+tr:nth-child(even) td:nth-child(even){
+    background-color: black;
+}
