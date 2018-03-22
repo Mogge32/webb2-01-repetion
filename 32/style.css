@@ -1,0 +1,38 @@
+.nyk{
+    position: relative;
+    margin-left: 100px;
+}
+p{
+    float: left;
+    font-size: 6em;
+    font-family: sans-serif;
+    font-weight: 100;
+    margin-left: -30px;
+}
+.N{
+    color: rgba(255, 0, 0, 0.6);
+    margin-left: 0px;
+}
+.Y{
+    color: rgba(0, 255, 128, 0.6);
+}
+.K{
+    color: rgba(0, 81, 255, 0.6);
+}
+.Ö{
+    color: rgba(255, 0, 234, 0.6);
+}
+.P{
+    color: rgba(255, 153, 0, 0.6);
+}
+.I{
+    color: rgba(0, 247, 255, 0.6);
+    margin-left: -35px;
+    margin-right: 20px;
+}
+.n{
+    color: rgba(32, 190, 0, 0.6);
+}
+.G{
+    color: rgba(255, 238, 0, 0.6);
+}
