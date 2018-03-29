@@ -1,0 +1,44 @@
+body{
+    background-color: darkgray;
+}
+.cloud{
+    position: relative;
+    width: 50%;
+    height: 600px;
+    border: 1px solid black;
+}
+.base{
+    position: absolute;
+    background-color: rgb(255,255,255);
+    border-radius: 200px;
+    width: 95%;
+    height: 40%;
+    margin-top: 30%;
+    margin-left: 3%;
+}
+.left{
+    position: absolute;
+    background-color: rgb(255,255,255);
+    border-radius: 200%;
+    width: 40%;
+    height: 30%;
+    margin-top: 13%;
+    margin-left: 15%;
+}
+.right{
+    position: absolute;
+    background-color: rgb(255,255,255);
+    border-radius: 200%;
+    width: 50%;
+    height: 40%;
+    margin-top: 6%;
+    margin-left: 40%;
+}
+.shadow{
+    position: absolute;
+    box-shadow: 0 30px 50px 10px rgba(0, 0, 0, 0.75);
+    width: 90%;
+    height: 1px;
+    margin-top: 70%;
+    margin-left: 5%;
+}
